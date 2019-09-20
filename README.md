@@ -3,7 +3,7 @@ This repository contains hands-on projects from the course Algorithm of Data-Gui
 
 ### Data Wrangling
 
-### Apache Spark
+### Apache Spark with Data Analysis
 
 ### Generalized Linear Models and Bayesian Reasoning
 
