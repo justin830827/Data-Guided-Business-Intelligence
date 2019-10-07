@@ -8,8 +8,7 @@ python3 Logistic_Regression_using_SGD.py
 ```
 
 Required package:
-sklearn.dataset
-sklearn
+sklearn.dataset, sklearn
 
 Reference:
 https://www.youtube.com/watch?v=8lJ6IU028k8 
